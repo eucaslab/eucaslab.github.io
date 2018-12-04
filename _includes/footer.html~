@@ -1,0 +1,35 @@
+<div id="footer" class="panel">
+  <div class="panel-footer">
+	<div class="container-fluid">
+	  <div class="row">
+		<div class="col-sm-4">
+			
+		  <p>&copy 2018 EUCAS Lab. Site made with <a href="https://jekyllrb.com">Jekyll</a></p>
+              <p>Located with the   <a href="http://csai.nl">Department of Cognitive Science and Artificial Intelligence</a>, <a href="https://www.uvt.nl">Tilburg University</a>, The Netherlands.</p>
+            
+
+		   <p>  </p><p>
+            		  
+            
+		</div>
+		<!--
+		<div class="col-sm-4">
+		  Funding:<br />
+		  - KPN
+		</div>
+		--!>
+		<div class="col-sm-4">
+		  Contact:<br />
+		  Tilburg University<br />
+		  Department of Cognitive Science and Artificial Intelligence<br />
+		  PO Box 90153<br />
+	     5000 LE Tilburg<br />
+        The Netherlands <br />
+		</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>

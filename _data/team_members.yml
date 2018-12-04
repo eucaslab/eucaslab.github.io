@@ -1,0 +1,23 @@
+
+- name: Henry Brighton
+  photo: henry.brighton.cropped.jpg
+  info: Assistant Professor of Cognitive Science and Artificial Intelligence
+  email: brighton@uvt.nl
+  number_educ: 5
+  education1: Research Scientist, Max Planck Institute for Human Development, 2004-2016.
+  education2: ESRC Postdoctoral Research Fellow, The University of Edinburgh, 2003-2004.
+  education3: Ph.D., The University of Edinburgh, 2003.
+  education4: MSc. Cognitive Science, The University of Edinburgh, 1997.
+  education5: BSc. (Hons) Artificial Intelligence and Computer Science, The University of Edinburgh, 1996.
+
+
+- name: Siddharth Ravi
+  photo: siddharth.jpeg
+  info: Researcher
+  email: S.Ravi@uvt.nl
+  number_educ: 0
+
+- name: Coming soon, 2019
+  photo: bio-photo.jpg
+  info: Ph.D Student
+  number_educ: 0
