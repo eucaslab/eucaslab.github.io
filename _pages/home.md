@@ -33,19 +33,19 @@ Please see the [Research](research) section for details about our approach and r
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uncertainties.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uncertainties.jpg" alt="Slide 1" markdown = "0"   />
         </div>       
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topographic.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topographic.jpg" alt="Slide 2" markdown = "0"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 3" markdown = "0"  />
         </div>
 	     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 4" markdown = "0"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 5" markdown = "0"  />
         </div>         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
