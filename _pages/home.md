@@ -39,13 +39,13 @@ Please see the [Research](research) section for details about our approach and r
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topographic.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 3" />
         </div>
 	     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 5" />
         </div>         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
