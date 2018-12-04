@@ -9,7 +9,7 @@
 	  </button>
 	  
 <!--	 <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">Extended Uncertainty in Cognitive and Adaptive Systems Lab</a> --!>
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">EUCAS Lab | Cognitive Science & AI | Tilburg University</a> 
+    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">EUCAS Lab | Cognitive Science and AI | Tilburg University</a> 
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">

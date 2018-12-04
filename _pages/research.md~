@@ -11,28 +11,20 @@ permalink: /research/
 
 <b> The goal of the EUCAS Lab is to advance the understanding of cognitive and adaptive systems by examining how theories, models, and organisms cope with extended uncertainty conditions. </b> 
 
+Theories, models, and information processing problems assume or imply a set of operating conditions. These conditions can often reflect simplifying or formally convenient assumptions that bear little relation to the properties of uncertain natural environments. The study of extended uncertainty examines the implications of imposing further uncertainties on these operating conditions. For example, rational decisions are typically defined in terms of known probabilities, utilities, actions, and consequences. One of the central concerns for the EUCAS Lab is how the notion of rationality might change when we introduce, for example, unquantifiable, Knightian uncertainty. In the following, we elaborate on this and other research themes that conern the EUCAS Lab.
 
-Theories, models, and information processing problems assume or imply a set of operating conditions. These conditions can often reflect simplifying or formally convenient assumptions that bear little 
-relation to the properties of uncertain natural environments. The study of extended uncertainty examines the implications of imposing further uncertainties on these operating conditions. For example, rational decisions are typically defined in terms of known probabilities, utilities, actions, and consequences. One of the central concerns for the EUCAS Lab is how the notion of rationality might change when we introduce, for example, unquantifiable, Knightian uncertainty. In the following, we elaborate on this and other research themes that conern the EUCAS Lab.
+
 
 ### Theme 1: Ecological Rationality
 
-<b>How does the statistical problem facing the organism change when we can't fully quantify environmental uncertainty? The study of ecological rationality investigates rationality in worlds where deep uncertainty precludes the ability to formulate optimal probabilistic responses.  </b>
+<b>How does the statistical problem facing the organism change when we can’t fully quantify environmental uncertainty? The study of ecological rationality investigates rationality in worlds where deep uncertainty precludes the ability to formulate optimal probabilistic responses. </b>
 
 <blockquote style="width:40%;float:right;margin:0 0 0 24px;">
 "it is sometimes <em>more</em> rational to admit that one does not have sufficient information for probabilistic beliefs than to pretend that one does"<br> (Gilboa et al., 2012, p. 27)
 </blockquote>
 
 
-Given a formally well-defined task, a rational actor model defines a
-rationally justified, optimal response. Rational actor models are desirable
-goals in the behavioral, cognitive, and social sciences, but in some contexts
-the distinction between small and large worlds can be used to question the
-cachet associated with the terms “rational” and “optimal.” Ideally suited
-to the analysis of small world problems, both concepts can be counterproductive
-in the analysis of large world problems. In small worlds, the
-relevant problem characteristics are certain and uncontroversial in their
-formalization. Large worlds are characterized by inherent uncertainty and ignorance, properties which undermine the validity and existence of optimal responses. 
+Given a formally well-defined task, a rational actor model defines a rationally justified, optimal response. Rational actor models are desirable goals in the behavioral, cognitive, and social sciences, but in some contexts the distinction between small and large worlds can be used to question the cachet associated with the terms “rational” and “optimal.” Ideally suited to the analysis of small world problems, both concepts can be counterproductive in the analysis of large world problems. In small worlds, the relevant problem characteristics are certain and uncontroversial in their formalization. Large worlds are characterized by inherent uncertainty and ignorance, properties which undermine the validity and existence of optimal responses.
 
 #### Key Publications
  <ul>
@@ -92,14 +84,10 @@ In: N. Chater & M. Oaksford (Eds.) <em>The Probabilistic Mind: Prospects for Bay
 <b>What are implications of viewing the process of language acqusition as uncertain, and involving inductive generalizatons? One implication, which we have investigated by developing the Iterated Learning Model (ILM), is that language undergoes cultural selection for learnability. Using ILMs we have examined the theory that many of the hallmarks of language are adaptations to problem of repeated cultural trasnmission. </b>
 
 <blockquote style="width:40%;float:right;margin:0 0 0 24px;">
-What are the implications of deviating from Chomsky’s position that our knowledge of language goes “far beyond the presented primary linguistic data and is in no sense an ‘inductive generalisation’ from these data” (Chomsky, 1965, p. 33).
+What are the implications of deviating from Chomsky’s position that knowledge of language goes “far beyond the presented primary linguistic data and is in no sense an ‘inductive generalisation’ from these data” (Chomsky, 1965, p. 33).
 </blockquote>
 
-Languages themselves provide information that influences their own
-survival. To understand the consequences of this theory we have developed computational models of linguistic evolution. Linguistic evolution is the process by which languages themselves evolve. Our research into  linguistic evolution highlights the significance of this process in understanding the evolution
-of linguistic complexity. Our conclusions are that: (1) the process of linguistic transmission constitutes the basis
-for an evolutionary system, and (2), that this evolutionary system is only superficially comparable to the process of
-biological evolution.
+Languages themselves provide information that influences their own survival. To understand the consequences of this theory we have developed computational models of linguistic evolution. Linguistic evolution is the process by which languages themselves evolve. Our research into linguistic evolution highlights the significance of this process in understanding the evolution of linguistic complexity. Our conclusions are that: (1) the process of linguistic transmission constitutes the basis for an evolutionary system, and (2), that this evolutionary system is only superficially comparable to the process of biological evolution.
 
 
 
@@ -116,19 +104,19 @@ biological evolution.
 
 ### Theme 4. The Social Transmission of Risk
 
-<b>The iterated learning model considers how learned mappings between meanings and signals undergo change when they culturally transmitted. What other aspects of cognition and behavior can be viewed in these terms? One related area of research for the EUCAS Lab is understanding how our perceptions of risk undergo change in response to repeated cultural transmission.  </b>
+<b>The iterated learning model considers how learned mappings between meanings and signals undergo change when culturally transmitted. What other aspects of cognition and behavior can be viewed in these terms? One related area of research for the EUCAS Lab is understanding how our perceptions of risk undergo change in response to repeated cultural transmission. </b>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/pubpic/Pub_chains.jpg){: style="width: 300px; float: right; border: 10px"}
 
 Public risk perception of hazardous events such as contagious
-outbreaks, terrorist attacks, and climate change are difficult to anticipate
+outbreaks, terrorist attacks, and climate change are difficult-toanticipate
 social phenomena. It is unclear how risk information
 will spread through social networks, how laypeople influence
 each other, and what social dynamics generate public opinion.
-Our research has examined how messages detailing risks are transmitted from
+We examine how messages detailing risks are transmitted from
 one person to another in experimental diffusion chains and
 how people influence each other as they propagate this information.
-Although the content of messages is gradually lost
+Although the content of a message is gradually lost
 over repeated social transmissions, subjective perceptions of
 risk propagate and amplify due to social influence. These results
 provide quantitative insights into the public response to risk
