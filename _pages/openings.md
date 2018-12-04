@@ -11,7 +11,7 @@ permalink: /vacancies
 
 ### Current open positions
 
-Ph.D openings will be advertised soon.
+Ph.D positions will be advertised soon.
 
 ### Undergraduate / Masters Projects for Tilburg University students
 If you are a Bachelor or Master student at Tilburg University looking for a project, please contact Henry Brighton.
