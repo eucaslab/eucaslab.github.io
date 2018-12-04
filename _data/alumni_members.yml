@@ -1,0 +1,10 @@
+- name: name
+  photo: bio-photo.jpg
+  duration: Details of duration
+  info: What they do
+  email: email
+  number_educ: 1
+  education1: Education 1
+  education2:
+  education3:
+  education4:
