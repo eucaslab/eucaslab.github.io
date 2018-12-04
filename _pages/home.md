@@ -18,7 +18,7 @@ Please see the [Research](research) section for details about our approach and r
 
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="null" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -33,19 +33,19 @@ Please see the [Research](research) section for details about our approach and r
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uncertainties.jpg" alt="Slide 1" markdown = "0"   />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/uncertainties.jpg" alt="Slide 1"   />
         </div>       
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topographic.jpg" alt="Slide 2" markdown = "0"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/topographic.jpg" alt="Slide 2"  />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 3" markdown = "0"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/chains.jpg" alt="Slide 3"   />
         </div>
 	     <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 4" markdown = "0"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/evolution.jpg" alt="Slide 4"   />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 5" markdown = "0"  />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/heuristics.jpg" alt="Slide 5"   />
         </div>         
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -57,6 +57,9 @@ Please see the [Research](research) section for details about our approach and r
     <span class="sr-only">Next</span>
   </a>
 </div>
+
+
+
 
 The EUCAS Lab recieves funding from [KPN](https://www.kpn.com) in collaboration with [The Jheronimus Academy of Data Science (JADS)](https://www.jads.nl/) and the [Technical University of Eindhoven](https://www.tue.nl/).
 
