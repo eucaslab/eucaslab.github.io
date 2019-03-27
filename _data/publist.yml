@@ -1,4 +1,13 @@
-
+- title: "Beyond quantified ignorance: Rebuilding rationality without the bias bias"
+  image: Pub_baltimore.jpg
+  description: "If we reassess the rationality question under the assumption that the uncertainty of the natural world is largely unquantifiable, 
+  where do we end up? In this article I argue that we arrive at a statistical, normative, and cognitive theory of ecological rationality. The main casualty of this rebuilding process is optimality. Once we view optimality as a formal implication of quantified uncertainty rather than an ecologically meaningful objective, the rationality question shifts from being axiomatic/probabilistic in nature to being algorithmic/predictive in nature. These distinct views on rationality mirror fundamental and long-standing divisions in statistics.  "
+  authors: Brighton, H. (2019)
+  link:
+    url: http://www.economics-ejournal.org/economics/discussionpapers/2019-25/count
+    display: "<em>Economics Discussion Papers</em>, No 2019-25, Kiel Institute for the World Economy [Open for public peer review at <em>Economics E-Journal</em>]."
+  highlight: 1
+  news2:
 
 - title: "Rationality without optimality: Bounded and ecological rationality from a Marrian perspective"
   image: Pub_heuristics.jpg
