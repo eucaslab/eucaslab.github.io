@@ -28,6 +28,9 @@ Given a formally well-defined task, a rational actor model defines a rationally 
 
 #### Key Publications
  <ul>
+ <li>Brighton, H. (2019). Beyond quantified ignorance: Rebuilding rationality without the bias bias.
+ <em>Economics Discussion Papers, No 2019-25</em>, Kiel Institute for the World Economy [Open for public peer review at Economics E-Journal].</li>
+
 <li>Brighton, H. (2018). Rationality without optimality: Bounded and ecological rationality from a Marrian perspective.
 PsyArXiv (To appear in: <em>Routledge Handbook of Bounded Rationality</em>)</li>
 
